@@ -11,13 +11,13 @@ IDE :- VS-Code
 
 Note : Bot is deployed for quick doubt solving
 
-### Industry :-
+# Industry :-
 Technical 
 
-### Project Title :-
+# Project Title :-
  My Latest Portfolio
  
-###Some Glimpses of my Portfolio :- 
+# Some Glimpses of my Portfolio :- 
  
 
 1. <img width="1433" alt="Screenshot 2022-10-20 at 11 14 14 AM" src="https://user-images.githubusercontent.com/75981967/196865865-79827aef-0a83-432f-947f-e72010c2dc15.png">
