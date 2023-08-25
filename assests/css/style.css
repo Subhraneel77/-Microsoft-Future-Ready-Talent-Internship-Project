@@ -147,6 +147,52 @@ header .navbar ul li a:hover {
 /* navbar ends */
 
 
+/* skills */
+
+.skills {
+    background: var(--main-bg-cool);
+    color: var(--white);
+    padding: 6rem 8rem;
+    align-items: center;
+}
+
+.skill-container {
+    display: grid;
+    grid-gap: 10px 50px;
+    grid-template-columns: repeat(2, 1fr);
+    padding: 1rem;
+}
+
+.skill-item {
+    display: flex;
+    width: 100%;
+    background-color: var(--main-bg);
+    margin: 0.5rem;
+    padding: 0.5rem;
+    border-radius: 10px;
+    box-shadow: var(--purple-low) 1px 0 20px 1px;
+}
+
+.skill-item img {
+    margin-right: 10px;
+}
+
+.skill-details {
+    width: 100%;
+    padding-right: 10px;
+}
+
+.skill-details h5,
+.skill-details .skill-progress-bar {
+    position: relative;
+    top: 10px;
+}
+
+.skills .section-heading .heading-underline {
+    border: 2px solid var(--main-bg);
+}
+
+
 /* hamburger icon starts*/
 
 #menu {
