@@ -41,7 +41,7 @@ $(document).ready(function() {
 document.addEventListener('visibilitychange',
     function() {
         if (document.visibilityState === "visible") {
-            document.title = "Portfolio | Saurav Mukherjee";
+            document.title = "Portfolio | Subhraneel Haldar";
             $("#favicon").attr("href", "assests/images/favicon.png");
         } else {
             document.title = "Come Back To Portfolio";
