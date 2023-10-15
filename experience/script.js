@@ -67,7 +67,7 @@ document.onkeydown = function(e) {
 document.addEventListener('visibilitychange',
 function(){
     if(document.visibilityState === "visible"){
-        document.title = "Experience | Portfolio Saurav Mukherjee";
+        document.title = "Experience | Portfolio Subhraneel Haldar";
         $("#favicon").attr("href","/assests/images/favicon.png");
     }
     else {
